@@ -1,0 +1,2 @@
+this is the second change
+This is the new text file
