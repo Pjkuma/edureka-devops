@@ -1,5 +1,5 @@
-Class{
-	public static void main(strings args[]){
-		system.out.println("Git lab Training");
+class Simple{
+	public static void main(String args[]){
+		System.out.println("Git lab Training");
 	}
 }
